@@ -7,11 +7,11 @@ if [$(cat /home/{SUA PASTA}/check-string.txt) == '']
 then
 
   #Ação caso a sting que você procura seja falsa!
-  echo STING ERRO
+  echo STRING ERRO
 
 else
 
   #Ação caso a sting que você procura seja Verdadeira!
-  echo STING OK
+  echo STRING OK
   
 fi
